@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Virtual Assistant](https://github.com/SavanSutariya/VirtualAssistant)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 learning **Django**
 
 - 💬 Ask me about **Python, C++**
 
