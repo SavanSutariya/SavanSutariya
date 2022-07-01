@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savan</h1>
-<h3 align="center">Still learning</h3>
+<h3 align="center">Exploring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savansutariya&label=Profile%20views&color=0e75b6&style=flat" alt="savansutariya" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 learning **Django**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **savanpatel5248@gmail.com**
 
