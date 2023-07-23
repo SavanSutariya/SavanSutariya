@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savansutariya&label=Profile%20views&color=0e75b6&style=flat" alt="savansutariya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/savan_sutariya_" target="blank"><img src="https://img.shields.io/twitter/follow/savan_sutariya_?logo=twitter&style=for-the-badge" alt="savan_sutariya_" /></a> </p>
-
-- 🔭 I’m currently working on [Virtual Assistant](https://github.com/SavanSutariya/VirtualAssistant)
+- 🔭 Master of Computer Applications **DDIT'24**
 
 - 🌱 learning **Django**
 
